@@ -12,4 +12,8 @@ Omdat het ontwerpen en bouwen van dit tekenrobotje verschillende interessante as
 
 ...verzamelen we alle bestanden, documenten, tekeningen, ontwerpen die we maken om de E-Liner te ontwerpen.
 
+## Design
+
+Alles begint bij een design. In een [design notebook](design.ipynb) denken we na over hoe we de teken-arm van de robot kunnen maken: Hoe werkt het? Hoe kunnen we dit allemaal berekenen? enz.
+
 Wordt vervolgd!
