@@ -144,7 +144,15 @@ module demo() {
 }
 
 demo();
-  
+
+module demo_bearing_joint() {
+  translate([0, 0, bearing_height*5]) { rotate([0,0,135]) { upper_arm2(); }}
+  translate([0 ,0, bearing_height*3]) {  color("red") { bearing(); } }
+  lower_arm();
+}
+
+// demo_bearing_joint();
+
 // lower_arm();
 // upper_arm();
 // upper_arm2();
