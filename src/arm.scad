@@ -143,6 +143,9 @@ module demo() {
   }
 }
 
+$vpr = [ 74.20, 0.00, 69.10 ];
+$vpt = [ 3.95, 24.04, 40.81 ];
+$vpd = 350;
 demo();
 
 module demo_bearing_joint() {
