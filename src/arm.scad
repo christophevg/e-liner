@@ -153,6 +153,13 @@ module demo_bearing_joint() {
 
 // demo_bearing_joint();
 
+module demo_pen_joint() {
+                      translate([0,-arm_length-25,0]) { upper_arm1(); }
+  rotate([0,0,215]) { translate([0,-arm_length,0]) { upper_arm2(); } }
+}
+
+// demo_pen_joint();
+
 // lower_arm();
 // upper_arm();
 // upper_arm2();
