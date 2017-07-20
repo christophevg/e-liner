@@ -109,7 +109,7 @@ module pen() {
 servo_distance = 30;
 
 module servo1() {
-  translate([-servo_distance/2, 0, height]) { servo(mounted=false); }
+  translate([-servo_distance/2, 0, 0]) { servo(mounted=false); }
 }
 
 module servo2() {
