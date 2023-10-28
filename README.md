@@ -1,6 +1,8 @@
 # E-Liner
 Een eigen tekenrobotje maken  
-[http://knutselbaar.be/projecten/E-Liner](http://knutselbaar.be/projecten/E-Liner)
+
+> [!IMPORTANT]  
+> Deze repo is [gearchiveerd](https://docs.github.com/en/repositories/archiving-a-github-repository/archiving-repositories#)
 
 ## Inleiding
 
